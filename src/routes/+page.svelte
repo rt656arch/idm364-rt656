@@ -28,7 +28,7 @@
 		{/each}
 	</div>
 
-	<Button href="/products" variant="outline">ALL COLLECTION</Button>
+	<Button href="/products">ALL COLLECTION</Button>
 </section>
 
 <style>
